@@ -1,24 +1,13 @@
-## README
+## rails-angular-seed-app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A quick way to get an Rails API backend going with an Angular JS front end. The base Angular code was taken from angular-seed.
 
-Things you may want to cover:
+### Getting Started
 
-* Ruby version
+Run from Rails project root:
 
-* System dependencies
+,,,
+rails server
+,,,
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+That's it.
