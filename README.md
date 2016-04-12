@@ -6,8 +6,8 @@ A quick way to get an Rails API backend going with an Angular JS front end. The 
 
 Run from Rails project root:
 
-,,,
+```
 rails server
-,,,
+```
 
 That's it.
