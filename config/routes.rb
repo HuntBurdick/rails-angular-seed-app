@@ -5,5 +5,5 @@ Rails.application.routes.draw do
   # mount ActionCable.server => '/cable'
 
   # Redirect root to angular app
-  get '/', :to => redirect('/angular/app/index.html')
+  get '/', :to => redirect('/index.html')
 end
