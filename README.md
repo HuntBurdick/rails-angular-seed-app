@@ -13,6 +13,11 @@ Run from Rails project root:
 ```
 rails server
 ```
+Assuming you have the Node package manager installed, run this from Angular project root /public:
+
+```
+npm install
+```
 
 Navigate to `http://localhost:3000` and check out your app.
 
