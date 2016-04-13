@@ -1,6 +1,6 @@
 ## rails-angular-seed-app
 
-A quick way to get an Rails API backend going with an Angular JS front end. The base Angular code was taken from angular-seed.
+A quick way to get an Rails API backend going with an Angular JS front end. The base Angular code was taken from the angular-seed project and modified.
 
 ### General Design Notes
 
@@ -18,7 +18,27 @@ Navigate to `http://localhost:3000` and check out your app.
 
 ### Testing
 
-XXX Documentation to come.
+#### Testing Angular
+
+The included Rails server will serve both Rails and the Angular app:
+
+```
+rails server
+```
+
+Run the included Unit Tests:
+
+
+```
+npm test
+```
+
+Run the included End to End tests:
+
+```
+npm run protractor  
+```
+
 
 ### Contributing
 

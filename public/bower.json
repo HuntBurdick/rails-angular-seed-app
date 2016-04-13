@@ -1,8 +1,8 @@
 {
-  "name": "angular-seed",
-  "description": "A starter project for AngularJS",
+  "name": "rails-angular-seed-app",
+  "description": "A starter project for Rails and AngularJS",
   "version": "0.0.0",
-  "homepage": "https://github.com/angular/angular-seed",
+  "homepage": "https://github.com/websitescenes/rails-angular-seed-app",
   "license": "MIT",
   "private": true,
   "dependencies": {
